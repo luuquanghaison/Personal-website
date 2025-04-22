@@ -3,7 +3,7 @@
 title: Son Luu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu --> -->
 
 # Full name (for SEO)
 first_name: Son
@@ -165,4 +165,4 @@ education:
 
 ## About Me
 
-I am a PhD student in the Department of Statistics at the University of British Columbia under the supervision of Dr. Alexandre Bouchard-Côté. My main interest is developing scalable Markov chain Monte Carlo (MCMC) methods with theoretical guarantees. 
+I am a PhD student in the Department of Statistics at the University of British Columbia under the supervision of Dr. Alexandre Bouchard-Côté. My main interest is developing scalable Markov chain Monte Carlo (MCMC) methods with theoretical guarantees. This includes coordinate-wise (Gibbs) sampling, variants of Hamiltonian Monte Carlo (NUTS, random HMC) as well as tempering methods (Parallel Tempering, Simulated Tempering). Another interest of mine is the connection sampling methods have to other fields such as optimization and dynamical systems.
