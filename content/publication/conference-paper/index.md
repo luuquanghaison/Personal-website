@@ -1,12 +1,16 @@
 ---
-title: 'An example conference paper'
+title: 'Is Gibbs sampling faster than Hamiltonian Monte Carlo on GLMs?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Zuheng Xu
+  - Nikola Surjanovic
+  - Miguel Biron-Lattes
+  - Trevor Campbell
+  - Alexandre Bouchard-Côté
 
 # Author notes (optional)
 author_notes:
@@ -34,7 +38,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - MCMC
 
 # Display this page in the Featured widget?
 featured: true
