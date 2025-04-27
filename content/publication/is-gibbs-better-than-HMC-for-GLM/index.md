@@ -1,6 +1,10 @@
 ---
 title: 'Is Gibbs sampling faster than Hamiltonian Monte Carlo on GLMs?'
 
+backlinks: false
+show_date: true
+reading_time: false
+
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
